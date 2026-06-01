@@ -203,6 +203,3 @@ Python • Classification • ML
 
 ### ⭐ Building Intelligent Solutions Through Data Analytics & Machine Learning
 
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=footer"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirudeep2002&theme=github_dark"/>
