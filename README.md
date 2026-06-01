@@ -1,20 +1,26 @@
 <div align="center">
 
-# 👋 Hi, I'm Chirudeep Bandapalli
+<img src="Dashboard.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Insights;Open+To+New+Opportunities" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data+Driven+Solutions" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/chirudeepbandapalli/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://chirudeep-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Chirudeep2002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Chirudeep2002&style=for-the-badge&color=blue"/>
 
 </div>
 
