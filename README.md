@@ -189,11 +189,9 @@ Python • Classification • ML
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Chirudeep2002/Chirudeep2002/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Chirudeep2002/Chirudeep2002/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
