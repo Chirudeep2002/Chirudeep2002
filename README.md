@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="Dashboard.png" width="100%" />
+<img src="./Dashboard.png" width="100%" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data+Driven+Solutions;Turning+Data+Into+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Insights;Building+Data+Driven+Solutions" />
 
 <br>
 
@@ -22,27 +22,28 @@
 
 ---
 
-# 👨‍💻 Professional Snapshot
+# 🎯 Professional Snapshot
 
 ```yaml
 Name: Chirudeep Bandapalli
 
 Education:
-  Degree: Master of Science in Computer Science
-  University: University of North Carolina at Charlotte
+  Degree: M.S. Computer Science
+  University: UNC Charlotte
   Graduation: May 2026
-
-Current Focus:
-  - Data Analytics
-  - Machine Learning
-  - Predictive Modeling
-  - Data Visualization
-  - Cloud Technologies
 
 Target Roles:
   - Data Analyst
   - Data Scientist
   - Machine Learning Engineer
+
+Core Skills:
+  - Python
+  - SQL
+  - Machine Learning
+  - Data Analytics
+  - Data Visualization
+  - Cloud Computing
 
 Certification:
   - Google Cloud Career Readiness Associate Cloud Engineer
@@ -54,23 +55,25 @@ Certification:
 
 <div align="center">
 
-### Programming Languages
+### Programming
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
-### Data Science & Analytics
+### Data Science
+
+<img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn" />
 
-### Cloud & Development Tools
+### Cloud & Development
 
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github" />
 
 </div>
 
 ---
 
-# 🚀 Flagship Projects
+# 🚀 Featured Projects
 
 <table>
 
@@ -80,11 +83,11 @@ Certification:
 
 <h3>🍽 Restaurant Rating Analysis</h3>
 
-Data analytics platform for restaurant performance monitoring, customer behavior analysis, and rating prediction.
+Data-driven restaurant analytics platform focused on customer behavior, ratings, and business insights.
 
-<b>Tech Stack:</b>
+<b>Tech:</b>
 
-Python • SQL • Data Analytics • Visualization
+Python • SQL • Analytics
 
 </td>
 
@@ -92,11 +95,11 @@ Python • SQL • Data Analytics • Visualization
 
 <h3>🚗 Mobility Analysis</h3>
 
-Exploratory data analysis project focused on transportation trends, movement patterns, and behavioral insights.
+Exploratory mobility analysis uncovering transportation and movement trends through data.
 
-<b>Tech Stack:</b>
+<b>Tech:</b>
 
-Python • Machine Learning • Analytics
+Python • Analytics • Machine Learning
 
 </td>
 
@@ -108,23 +111,23 @@ Python • Machine Learning • Analytics
 
 <h3>😴 SleeSync</h3>
 
-Sleep intelligence platform providing personalized recommendations through behavioral analytics and predictive insights.
+Sleep intelligence platform generating personalized recommendations through behavioral analytics.
 
-<b>Tech Stack:</b>
+<b>Tech:</b>
 
-Machine Learning • Analytics • Python
+Machine Learning • Python
 
 </td>
 
 <td width="50%">
 
-<h3>🫁 Lung Cancer Detection Using ELM</h3>
+<h3>🫁 Lung Cancer Detection</h3>
 
-Machine learning pipeline utilizing Extreme Learning Machine (ELM) algorithms for early-stage cancer prediction.
+ELM-based machine learning pipeline for early-stage lung cancer prediction.
 
-<b>Tech Stack:</b>
+<b>Tech:</b>
 
-Python • Classification • Machine Learning
+Python • Classification • ML
 
 </td>
 
@@ -173,29 +176,24 @@ Python • Classification • Machine Learning
 </div>
 
 ---
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
+# 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirudeep2002&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Chirudeep2002/Chirudeep2002/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
-<h2 align="center">📊 Developer Metrics</h2>
-
-<p align="center">
-<img src="/github-metrics.svg" />
-</p>
-
-# 💡 Areas of Interest
-
-```text
-Machine Learning
-Data Analytics
-Data Visualization
-Artificial Intelligence
-Predictive Modeling
-Cloud Computing
-Business Intelligence
-```
+</div>
 
 ---
 
@@ -207,12 +205,12 @@ Business Intelligence
 
 ---
 
-# 🌐 Portfolio & Professional Links
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://chirudeep-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chirudeepbandapalli/">
@@ -225,6 +223,6 @@ Business Intelligence
 
 <div align="center">
 
-### ⭐ Building Intelligent Solutions Through Data & Machine Learning
+### ⭐ Building Intelligent Solutions Through Data Analytics & Machine Learning
 
 </div>
