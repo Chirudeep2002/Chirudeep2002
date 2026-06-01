@@ -1,96 +1,189 @@
-<h1 align="center">Hi 👋, I'm Chirudeep Bandapalli</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Data Scientist • ML Engineer
-</h3>
+# 👋 Hi, I'm Chirudeep Bandapalli
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Cloud;Turning+Data+into+Insights" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Insights;Open+To+New+Opportunities" />
 
-## 🚀 About Me
+<br>
+
+<a href="https://www.linkedin.com/in/chirudeepbandapalli/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://chirudeep-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Chirudeep2002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
 
 🎓 M.S. Graduate from UNC Charlotte (May 2026)
 
-📊 Passionate about:
-- Data Analytics
-- Machine Learning
-- Predictive Modeling
-- Data Visualization
-- Cloud Technologies
-
 ☁️ Google Cloud Career Readiness Associate Cloud Engineer
 
-🔍 Seeking opportunities in:
+📊 Passionate about Data Analytics, Machine Learning and AI
+
+🔍 Looking for opportunities as:
+
 - Data Analyst
 - Data Scientist
 - Machine Learning Engineer
 
-🌎 Based in Charlotte, NC
+---
 
-## 🛠 Technical Skills
+# ⚡ Tech Stack
 
-### Languages
-Python • SQL • Java
+<div align="center">
 
-### Data Analytics
-Pandas • NumPy • Matplotlib • Seaborn
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,gcp,java"/>
 
-### Machine Learning
-Scikit-Learn • Classification • Regression • Feature Engineering
+</div>
 
-### Databases
-MySQL • Database Design
+---
 
-### Cloud
-Google Cloud Platform
+# 📌 Featured Projects
 
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook
+<table>
+<tr>
+<td width="50%">
 
-## 📌 Featured Projects
-Analyzed restaurant performance and customer ratings using data analytics techniques to identify trends and business insights.
+### 🍽 Restaurant Rating Analysis
 
-Tech Stack:
+Analyze restaurant ratings and customer behavior using advanced data analytics techniques.
+
+**Tech Used**
+
 Python • SQL • Data Visualization
 
-Performed mobility pattern analysis to uncover travel behavior trends and actionable insights from transportation datasets.
+</td>
 
-Tech Stack:
-Python • Data Analysis • Visualization
+<td width="50%">
 
-Built a sleep analytics platform focused on understanding sleep patterns and generating personalized recommendations.
+### 🚗 Mobility Analysis
 
-Tech Stack:
-Python • Data Analytics • Machine Learning
+Analyze mobility trends and travel patterns to generate actionable insights.
 
-Developed a machine learning model using Extreme Learning Machine (ELM) techniques for lung cancer prediction.
+**Tech Used**
 
-Tech Stack:
-Python • Machine Learning • Classification
+Python • Analytics • Visualization
 
-## 📈 GitHub Statistics
+</td>
 
-![](https://github-readme-stats.vercel.app/api?username=Chirudeep2002&show_icons=true&theme=tokyonight)
+</tr>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chirudeep2002&theme=tokyonight)
+<tr>
+<td width="50%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirudeep2002&layout=compact&theme=tokyonight)
+### 😴 SleeSync
 
-## 🏆 Certifications
+Sleep tracking and recommendation platform using data-driven insights.
 
-✔ Google Cloud Career Readiness Associate Cloud Engineer
+**Tech Used**
 
-✔ Python for Data Science (NPTEL)
+Python • ML • Analytics
 
-## 🤝 Connect With Me
+</td>
 
-🌐 Portfolio:
-https://chirudeep-portfolio.vercel.app
+<td width="50%">
 
-💼 LinkedIn:
-https://www.linkedin.com/in/chirudeepbandapalli
+### 🫁 Lung Cancer Detection
 
-📧 Email:
-chirudeepba@gmail.com
+Machine Learning model using ELM classifier for cancer prediction.
 
+**Tech Used**
+
+Python • ML • Classification
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chirudeep2002&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirudeep2002&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirudeep2002&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirudeep2002&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chirudeep2002&theme=algolia&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirudeep2002&theme=github-dark"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+🏅 Google Cloud Career Readiness Associate Cloud Engineer
+
+🏅 Python for Data Science (NPTEL)
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chirudeepbandapalli/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://chirudeep-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building Data-Driven Solutions Through Analytics and Machine Learning
+
+</div>
