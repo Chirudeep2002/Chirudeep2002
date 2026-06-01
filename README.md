@@ -173,6 +173,17 @@ Python • Classification • Machine Learning
 </div>
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Chirudeep2002/Chirudeep2002/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<h2 align="center">📊 Developer Metrics</h2>
+
+<p align="center">
+<img src="/github-metrics.svg" />
+</p>
 
 # 💡 Areas of Interest
 
