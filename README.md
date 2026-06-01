@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data+Driven+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data+Driven+Solutions;Turning+Data+Into+Insights" />
 
 <br>
 
@@ -16,103 +16,125 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Chirudeep2002&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Chirudeep2002&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 Professional Snapshot
 
-🎓 M.S. Graduate from UNC Charlotte (May 2026)
+```yaml
+Name: Chirudeep Bandapalli
 
-☁️ Google Cloud Career Readiness Associate Cloud Engineer
+Education:
+  Degree: Master of Science in Computer Science
+  University: University of North Carolina at Charlotte
+  Graduation: May 2026
 
-📊 Passionate about Data Analytics, Machine Learning and AI
+Current Focus:
+  - Data Analytics
+  - Machine Learning
+  - Predictive Modeling
+  - Data Visualization
+  - Cloud Technologies
 
-🔍 Looking for opportunities as:
+Target Roles:
+  - Data Analyst
+  - Data Scientist
+  - Machine Learning Engineer
 
-- Data Analyst
-- Data Scientist
-- Machine Learning Engineer
+Certification:
+  - Google Cloud Career Readiness Associate Cloud Engineer
+```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,gcp,java"/>
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+
+### Data Science & Analytics
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn" />
+
+### Cloud & Development Tools
+
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Flagship Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-### 🍽 Restaurant Rating Analysis
+<h3>🍽 Restaurant Rating Analysis</h3>
 
-Analyze restaurant ratings and customer behavior using advanced data analytics techniques.
+Data analytics platform for restaurant performance monitoring, customer behavior analysis, and rating prediction.
 
-**Tech Used**
+<b>Tech Stack:</b>
 
-Python • SQL • Data Visualization
+Python • SQL • Data Analytics • Visualization
 
 </td>
 
 <td width="50%">
 
-### 🚗 Mobility Analysis
+<h3>🚗 Mobility Analysis</h3>
 
-Analyze mobility trends and travel patterns to generate actionable insights.
+Exploratory data analysis project focused on transportation trends, movement patterns, and behavioral insights.
 
-**Tech Used**
+<b>Tech Stack:</b>
 
-Python • Analytics • Visualization
+Python • Machine Learning • Analytics
 
 </td>
 
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 😴 SleeSync
+<h3>😴 SleeSync</h3>
 
-Sleep tracking and recommendation platform using data-driven insights.
+Sleep intelligence platform providing personalized recommendations through behavioral analytics and predictive insights.
 
-**Tech Used**
+<b>Tech Stack:</b>
 
-Python • ML • Analytics
+Machine Learning • Analytics • Python
 
 </td>
 
 <td width="50%">
 
-### 🫁 Lung Cancer Detection
+<h3>🫁 Lung Cancer Detection Using ELM</h3>
 
-Machine Learning model using ELM classifier for cancer prediction.
+Machine learning pipeline utilizing Extreme Learning Machine (ELM) algorithms for early-stage cancer prediction.
 
-**Tech Used**
+<b>Tech Stack:</b>
 
-Python • ML • Classification
+Python • Classification • Machine Learning
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -122,9 +144,7 @@ Python • ML • Classification
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
@@ -134,33 +154,37 @@ Python • ML • Classification
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirudeep2002&theme=github_dark"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chirudeep2002&theme=algolia&no-frame=true&row=1"/>
-
-</div>
-
----
-
-# 💻 Coding Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirudeep2002&theme=github-dark"/>
 
 </div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chirudeep2002&theme=algolia&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 💡 Areas of Interest
+
+```text
+Machine Learning
+Data Analytics
+Data Visualization
+Artificial Intelligence
+Predictive Modeling
+Cloud Computing
+Business Intelligence
+```
 
 ---
 
@@ -172,16 +196,16 @@ Python • ML • Classification
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Portfolio & Professional Links
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chirudeepbandapalli/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://chirudeep-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://chirudeep-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/chirudeepbandapalli/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -190,6 +214,6 @@ Python • ML • Classification
 
 <div align="center">
 
-### ⭐ Building Data-Driven Solutions Through Analytics and Machine Learning
+### ⭐ Building Intelligent Solutions Through Data & Machine Learning
 
 </div>
