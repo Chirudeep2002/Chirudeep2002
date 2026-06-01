@@ -141,16 +141,6 @@ Python • Classification • ML
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chirudeep2002&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirudeep2002&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirudeep2002&theme=github-dark-blue&hide_border=true"/>
 
 </div>
